@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Minyatür Projee.exe" version="1.0.0.1" publicKeyToken="be2590570b427ff8" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Minyatür Projee" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Minyatür Projee.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Minyatür Projee.exe" size="23520">
+      <assemblyIdentity name="Minyatür Projee" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>L653CX3c5zZpunpF6QWfEeK7f2P30Npoa7idYUzW+W4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Minyatür Projee.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="NewFolder1\Hacker.wav" size="48018554">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>F8UtVRcyHWndo+/4Vwun0MuxO5nmkl/eRPWYLKUVapI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-R6VLOED\Reena" issuerKeyHash="bfef1867c507bc647dea3aa8d80e696a0a89d716" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+qUFSGg0aOkQA0jJLGkmdUiDrI+9oiPzzA+ZvaTPmOA=</DigestValue></Reference></SignedInfo><SignatureValue>nWPNmvTg9JhFbP10at+AJlMVSrXJYMAvaNruRL1hC8ccNm5MKKK10Ooloqap7QjnmSBTjf1HwHjFbu/mpf7BwswvLuvDCx+sXCNRzXwUdlFvOIlFqqfj2uOgPI/DD+YPKCryn7tHtaylN+HGzrz6rrqF0+TZdYUcg1ZwnxtddQ8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wdzRRMo+CKBm5d7hgA2Rt0QIeO6NUjzLQTvVUybvoB+8juOut82uHTTKJ+S6AMH1PiNwVZcVtgolN89inc/uaxw3sVZrwU81/Pbwi9/4xFQgzK2YWTyaphXBr4N06VTR8eo11WjadizPSDgaGwEniCJRDdEKqVom+/79Sfut8NU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e098cfa4bd990fccf323a2bd8fac83487526692cc9480310e96834684805a5fa" Description="" Url=""><as:assemblyIdentity name="Minyatür Projee.exe" version="1.0.0.1" publicKeyToken="be2590570b427ff8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-R6VLOED\Reena</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>zFaY+ZLmNaspbbAN4hY/u5vkgkVzQlhS49yR4/BoCuY=</DigestValue></Reference></SignedInfo><SignatureValue>tSo4pjCYdV6sQv/nHeWvjcvCW7sieNmWwuI8FGSJrZCHFv5gKet4J6P3IU/EXWX+ueID8StwMkENYLOZcn/5mVQoVBt7hOcXBUouYoCJ+o+qLx7nMjpiA24UwNvcrknqEQVeWHFjAVfcIn2Sm5lCsDABEwAQK1gH9myxOBl1viU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wdzRRMo+CKBm5d7hgA2Rt0QIeO6NUjzLQTvVUybvoB+8juOut82uHTTKJ+S6AMH1PiNwVZcVtgolN89inc/uaxw3sVZrwU81/Pbwi9/4xFQgzK2YWTyaphXBr4N06VTR8eo11WjadizPSDgaGwEniCJRDdEKqVom+/79Sfut8NU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQOQ5w/fBA3Z5JNK0PP15XIzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFIANgBWAEwATwBFAEQAXABSAGUAZQBuAGEwHhcNMjAwMjEyMTUwNjM3WhcNMjEwMjExMjEwNjM3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFIANgBWAEwATwBFAEQAXABSAGUAZQBuAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMHc0UTKPgigZuXe4YANkbdECHjujVI8y0E71VMm76AfvI7jrrfNrh00yifkugDB9T4jcFWXFbYKJTfPYp3P7mscN7FWa8FPNfz28Ivf+MRUIMytmFk8mqYVwa+DdOlU0fHqNdVo2nYsz0g4GhsBJ4giUQ3RCqlaJvv+/Un7rfDVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAtK//wtQ7PT/Fpl1WStBmYH27v9tCH8SUgYftaJwKrvrVN9nBGPPIhlPve+sOEfVzodV3SL0gB/muYX3e+xGfmfseBwjMcOQ5Ha1l4FrMabCZY++hUk+i4ZKkqlmaTsw/xJXBFB7Zyc98cGzDc96Nl+lJwYcNUUgVSF8Wv/RBjcc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "srCmDR19xZBc8lbNododmHyFzom05D5ltLRnsNh7ZbtMT3LVi8HUAK3GQFm1Z3o4NN7+D209Mua8OfTT2H5Rww==",
+  "success": true,
+  "projectFilePath": "D:\\DERS\\Görsel Programlama\\C#\\C# Console Projeleri\\Matematik Menüsü\\Matematik Menüsü\\Matematik Menüsü.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

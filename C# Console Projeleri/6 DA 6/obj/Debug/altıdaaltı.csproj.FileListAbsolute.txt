@@ -1,0 +1,12 @@
+C:\Users\RESUL\Desktop\6 DA 6\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\RESUL\Desktop\6 DA 6\bin\Debug\ConsoleApplication1.exe
+C:\Users\RESUL\Desktop\6 DA 6\bin\Debug\ConsoleApplication1.pdb
+C:\Users\RESUL\Desktop\6 DA 6\obj\Debug\altıdaaltı.csprojResolveAssemblyReference.cache
+C:\Users\RESUL\Desktop\6 DA 6\obj\Debug\ConsoleApplication1.exe
+C:\Users\RESUL\Desktop\6 DA 6\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\bin\Debug\ConsoleApplication1.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\obj\Debug\altıdaaltı.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\obj\Debug\ConsoleApplication1.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\6 DA 6\obj\Debug\ConsoleApplication1.pdb

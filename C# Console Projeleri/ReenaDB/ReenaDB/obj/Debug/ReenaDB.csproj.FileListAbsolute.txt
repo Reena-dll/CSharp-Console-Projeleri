@@ -1,0 +1,46 @@
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe.config
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\ReenaDB.pdb
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\obj\Debug\ReenaDB.exe
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\obj\Debug\ReenaDB.pdb
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\EntityFramework.dll
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\EntityFramework.xml
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reena\source\repos\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CopyComplete
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe.config
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.pdb
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.dll
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.xml
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CopyComplete
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.exe
+C:\Users\Reena\Desktop\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.pdb
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe.config
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\ReenaDB.pdb
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.dll
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.xml
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csprojAssemblyReference.cache
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CoreCompileInputs.cache
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CopyComplete
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.exe
+D:\DERS\Internet Programciligi\ReenaDB\ReenaDB\obj\Debug\ReenaDB.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe.config
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\ReenaDB.exe
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\ReenaDB.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\EntityFramework.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\EntityFramework.xml
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\obj\Debug\ReenaDB.csproj.CopyComplete
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\obj\Debug\ReenaDB.exe
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\ReenaDB\ReenaDB\obj\Debug\ReenaDB.pdb

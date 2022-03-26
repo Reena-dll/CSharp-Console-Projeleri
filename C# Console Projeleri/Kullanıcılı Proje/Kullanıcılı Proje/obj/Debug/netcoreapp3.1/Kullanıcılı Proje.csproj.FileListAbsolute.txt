@@ -1,0 +1,39 @@
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.exe
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.deps.json
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.json
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+C:\Users\Reena\source\repos\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csproj.CopyComplete
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Caliburn.Micro.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.exe
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.deps.json
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.json
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.runtimeconfig.dev.json
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\bin\Debug\netcoreapp3.1\Caliburn.Micro.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfoInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.AssemblyInfo.cs
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.csproj.CopyComplete
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.dll
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Kullanıcılı Proje\Kullanıcılı Proje\obj\Debug\netcoreapp3.1\Kullanıcılı Proje.genruntimeconfig.cache

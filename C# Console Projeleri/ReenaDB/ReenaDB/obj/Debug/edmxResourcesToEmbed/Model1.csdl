@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ReenaDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="Kategori_Id" />
+    </Key>
+    <Property Name="Kategori_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAdi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Urunler" Relationship="Self.FK_Urunler_Kategoriler" FromRole="Kategoriler" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullanıcıID" />
+    </Key>
+    <Property Name="KullanıcıID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullanıcıAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KullanıcıSifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="Musteri_Id" />
+    </Key>
+    <Property Name="Musteri_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriAdi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="MusteriSoyadi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Telofon" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Siparisler" Relationship="Self.FK_Siparisler_Musteriler" FromRole="Musteriler" ToRole="Siparisler" />
+  </EntityType>
+  <EntityType Name="SiparisDetay">
+    <Key>
+      <PropertyRef Name="SDetay_Id" />
+    </Key>
+    <Property Name="SDetay_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adet" Type="Int32" />
+    <Property Name="Fiyat" Type="Int32" />
+    <Property Name="Siparis_Id" Type="Int32" />
+    <Property Name="Urun_Id" Type="Int32" />
+    <NavigationProperty Name="Siparisler" Relationship="Self.FK_SiparisDetay_Siparisler" FromRole="SiparisDetay" ToRole="Siparisler" />
+    <NavigationProperty Name="Urunler" Relationship="Self.FK_SiparisDetay_Urunler" FromRole="SiparisDetay" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="Siparisler">
+    <Key>
+      <PropertyRef Name="Siparis_Id" />
+    </Key>
+    <Property Name="Siparis_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tarih" Type="DateTime" Precision="0" />
+    <Property Name="Musteri_Id" Type="Int32" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Siparisler_Musteriler" FromRole="Siparisler" ToRole="Musteriler" />
+    <NavigationProperty Name="SiparisDetay" Relationship="Self.FK_SiparisDetay_Siparisler" FromRole="Siparisler" ToRole="SiparisDetay" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="Urun_Id" />
+    </Key>
+    <Property Name="Urun_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunAdi" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="UrunFiyat" Type="Int32" />
+    <Property Name="UrunStok" Type="Int32" />
+    <Property Name="Kategori_Id" Type="Int32" />
+    <NavigationProperty Name="Kategoriler" Relationship="Self.FK_Urunler_Kategoriler" FromRole="Urunler" ToRole="Kategoriler" />
+    <NavigationProperty Name="SiparisDetay" Relationship="Self.FK_SiparisDetay_Urunler" FromRole="Urunler" ToRole="SiparisDetay" />
+  </EntityType>
+  <Association Name="FK_Urunler_Kategoriler">
+    <End Role="Kategoriler" Type="Self.Kategoriler" Multiplicity="0..1" />
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="Kategori_Id" />
+      </Principal>
+      <Dependent Role="Urunler">
+        <PropertyRef Name="Kategori_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparisler_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="0..1" />
+    <End Role="Siparisler" Type="Self.Siparisler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="Musteri_Id" />
+      </Principal>
+      <Dependent Role="Siparisler">
+        <PropertyRef Name="Musteri_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SiparisDetay_Siparisler">
+    <End Role="Siparisler" Type="Self.Siparisler" Multiplicity="0..1" />
+    <End Role="SiparisDetay" Type="Self.SiparisDetay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Siparisler">
+        <PropertyRef Name="Siparis_Id" />
+      </Principal>
+      <Dependent Role="SiparisDetay">
+        <PropertyRef Name="Siparis_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SiparisDetay_Urunler">
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="0..1" />
+    <End Role="SiparisDetay" Type="Self.SiparisDetay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="Urun_Id" />
+      </Principal>
+      <Dependent Role="SiparisDetay">
+        <PropertyRef Name="Urun_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ReenaDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" />
+    <EntitySet Name="SiparisDetay" EntityType="Self.SiparisDetay" />
+    <EntitySet Name="Siparisler" EntityType="Self.Siparisler" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" />
+    <AssociationSet Name="FK_Urunler_Kategoriler" Association="Self.FK_Urunler_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Urunler" EntitySet="Urunler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparisler_Musteriler" Association="Self.FK_Siparisler_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Siparisler" EntitySet="Siparisler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SiparisDetay_Siparisler" Association="Self.FK_SiparisDetay_Siparisler">
+      <End Role="Siparisler" EntitySet="Siparisler" />
+      <End Role="SiparisDetay" EntitySet="SiparisDetay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SiparisDetay_Urunler" Association="Self.FK_SiparisDetay_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="SiparisDetay" EntitySet="SiparisDetay" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

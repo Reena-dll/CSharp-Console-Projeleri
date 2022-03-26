@@ -1,0 +1,6 @@
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\bin\Debug\Denemeler.exe.config
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\obj\Debug\Denemeler.csprojResolveAssemblyReference.cache
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\bin\Debug\Denemeler.exe
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\bin\Debug\Denemeler.pdb
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\obj\Debug\Denemeler.exe
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Denemeler\Denemeler\obj\Debug\Denemeler.pdb

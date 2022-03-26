@@ -1,0 +1,8 @@
+C:\Users\RESUL\Desktop\Dijital Saat\bin\Debug\Dijital Saat.exe.config
+C:\Users\RESUL\Desktop\Dijital Saat\obj\Debug\Dijital Saat.csprojResolveAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\obj\Debug\Dijital Saat.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\bin\Debug\Dijital Saat.exe.config
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\bin\Debug\Dijital Saat.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\bin\Debug\Dijital Saat.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\obj\Debug\Dijital Saat.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\Dijital Saat\obj\Debug\Dijital Saat.pdb

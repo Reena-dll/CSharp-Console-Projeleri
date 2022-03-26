@@ -1,0 +1,18 @@
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\bin\Debug\KeyWord.exe.config
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\bin\Debug\KeyWord.exe
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\bin\Debug\KeyWord.pdb
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\obj\Debug\KeyWord.csprojResolveAssemblyReference.cache
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\obj\Debug\KeyWord.exe
+C:\Users\RESUL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\KeyWord\KeyWord\obj\Debug\KeyWord.pdb
+C:\Users\RESUL\Desktop\KeyWord\bin\Debug\KeyWord.exe.config
+C:\Users\RESUL\Desktop\KeyWord\obj\Debug\KeyWord.exe
+C:\Users\RESUL\Desktop\KeyWord\obj\Debug\KeyWord.pdb
+C:\Users\RESUL\Desktop\KeyWord\bin\Debug\KeyWord.exe
+C:\Users\RESUL\Desktop\KeyWord\bin\Debug\KeyWord.pdb
+C:\Users\RESUL\Desktop\KeyWord\obj\Debug\KeyWord.csprojResolveAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\bin\Debug\KeyWord.exe.config
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\bin\Debug\KeyWord.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\bin\Debug\KeyWord.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\obj\Debug\KeyWord.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\obj\Debug\KeyWord.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Projeleri\KeyWord\obj\Debug\KeyWord.pdb

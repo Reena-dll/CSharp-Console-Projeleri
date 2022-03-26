@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe.config
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.pdb
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.exe
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.pdb
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe.manifest
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.application
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.exe.manifest
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.application
+C:\Users\Reena\source\repos\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe.config
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe.manifest
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.application
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.exe
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\bin\Debug\Minyatür Projee.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.exe.manifest
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.application
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.exe
+D:\DERS\Görsel Programlama\C#\C# Console Projeleri\Minyatür Projee\Minyatür Projee\obj\Debug\Minyatür Projee.pdb
